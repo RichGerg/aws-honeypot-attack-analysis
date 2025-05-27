@@ -1,4 +1,4 @@
-# 🎯 AWS Honeypot Deployment & Attack Analysis
+# 🎯 AWS Honeypot Deployment & Attack Analysis (Part 1)
 
 This project documents the deployment of a [T-Pot](https://github.com/telekom-security/tpotce) honeypot on an AWS EC2 instance to observe, log, and analyze malicious behavior.
 
