@@ -87,7 +87,13 @@ After 10 days of uptime, collected data revealed consistent attacks from specifi
 - Suspicious request patterns
 - Traffic targeting vulnerable services
 
-Future enhancements may include integrating automated WAF updates based on honeypot logs, building alerting pipelines, and testing other honeypot platforms.
+Integrating ![automated WAF updates](https://github.com/RichGerg/aws-waf-firewall-honeypot/) based on honeypot logs, building alerting pipelines, and testing other honeypot platforms.
+
+---
+
+## 🔗 Related Projects
+
+- 📡 [AWS WAF Implementation Using Honeypot Intelligence (Part 2)](https://github.com/RichGerg/aws-waf-firewall-honeypot)
 
 ---
 
