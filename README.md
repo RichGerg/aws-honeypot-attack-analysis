@@ -99,5 +99,5 @@ This project is open source under the [MIT License](LICENSE).
 
 ## ✉️ Credits
 
-[T-Pot](https://github.com/telekom-security/tpotce) by Deutsche Telekom Security GmbH and walkthrough by RichGerg - built as a lightweight client-side monitoring solution to support lead gen reliability during a high-traffic ad campaign.
+[T-Pot](https://github.com/telekom-security/tpotce) by Deutsche Telekom Security GmbH and walkthrough by RichGerg - built a honeypot on an AWS EC2 instance to observe, log, and analyze malicious behavior.
 
